@@ -42,10 +42,13 @@ You can view the website live here:
 1. Clone the repository:
 ```bash
 git clone https://github.com/anurefsan/personal-website.git
-Open index.html in your browser.
+```
+
+2. Open index.html in your browser.
 
 📬 Contact
 Feel free to connect with me:
+
 📧 Email: anurefsan101@gmail.com
 💼 LinkedIn: linkedin.com/in/nurefsan-akin
 💻 GitHub: github.com/anurefsan
