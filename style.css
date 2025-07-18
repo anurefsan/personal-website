@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: #3a434d;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
+
+a {
+    color: #0077ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.btn:hover {
+    background-color: #3a434d;
+    color: #fff;
+    transition: 0.3s;
+}
+
+header {
+  padding-left: 10rem;/* Sol boşluk arttırıldı */
+}
