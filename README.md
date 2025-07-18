@@ -1,6 +1,3 @@
-# personal-website
-Kişisel tanıtım sitem/My personal promotion site
-
 # 🌐 Personal Website – Nurefsan Akin
 
 This is a simple, responsive personal website built using HTML and CSS.  
