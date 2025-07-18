@@ -1,3 +1,4 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 # 🌐 Personal Website – Nurefsan Akin
 
 This is a simple, responsive personal website built using HTML and CSS.  
